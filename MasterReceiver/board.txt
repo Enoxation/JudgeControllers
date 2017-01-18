@@ -1,0 +1,2 @@
+# MasterReceiver build property overrides
+#
