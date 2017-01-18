@@ -125,6 +125,7 @@ void SleepCheck() {
 		Serial.println(F("No sleeping"));
 		removeWakeUp();
 		ClearDecisions(HasDecided, sizeof(HasDecided));
+
 		NotifyAll();
 
 	}
